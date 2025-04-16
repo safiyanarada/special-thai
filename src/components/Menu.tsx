@@ -56,7 +56,7 @@ const menuCategories = [
     name: "Les Curry",
     items: [
       { id: 14, name: "Curry vert au poulet", description: "Poulet au curry vert, lait de coco et légumes", image: "/lovable-uploads/curryvert-poulet.jpg" },
-      { id: 15, name: "Curry rouge au bœuf", description: "Bœuf au curry rouge, lait de coco et légumes", image: "lovable-uploads/curryrouge-boeuf.jpg" },
+      { id: 15, name: "Curry rouge au bœuf", description: "Bœuf au curry rouge, lait de coco et légumes", image: "/lovable-uploads/curryrouge-boeuf.jpg" },
       { id: 16, name: "Curry jaune aux crevettes", description: "Crevettes au curry jaune, lait de coco et légumes", image: "/lovable-uploads/curryjaune-crevette.jpg" },
     ]
   },
@@ -64,9 +64,9 @@ const menuCategories = [
     id: "wok",
     name: "Wok",
     items: [
-      { id: 17, name: "Poulet Basilic Thai", description: "Poulet sauté au basilic thaï et légumes", image: "lovable-uploads/wokpoulet.jpg" },
-      { id: 18, name: "Lok Lak Boeuf", description: "Bœuf mariné sauté, servi avec riz et œuf", image: "lovable-uploads/wokboeuf.jpg" },
-      { id: 19, name: "Riz Thai Crevette Ananas", description: "Riz sauté aux crevettes, ananas et légumes", image: "lovable-uploads/rizcrevettes.jpg" },
+      { id: 17, name: "Poulet Basilic Thai", description: "Poulet sauté au basilic thaï et légumes", image: "/lovable-uploads/wokpoulet.jpg" },
+      { id: 18, name: "Lok Lak Boeuf", description: "Bœuf mariné sauté, servi avec riz et œuf", image: "/lovable-uploads/wokboeuf.jpg" },
+      { id: 19, name: "Riz Thai Crevette Ananas", description: "Riz sauté aux crevettes, ananas et légumes", image: "/lovable-uploads/rizcrevettes.jpg" },
     ]
   }
 ];
